@@ -45,7 +45,7 @@ stock_symbols_input = input("Enter your question : ")
 start_date = '2022-01-01'  #input("Enter start date (YYYY-MM-DD): ")
 end_date = '2023-01-01'    #input("Enter end date (YYYY-MM-DD): ")
 
-
+#Final Function
 def final_result(stock_symbols_input_data,start_date_data,end_date_data):
     stock_symbols = []
     found = False
