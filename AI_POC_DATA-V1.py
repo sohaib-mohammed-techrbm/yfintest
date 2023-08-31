@@ -5,4 +5,4 @@ compare_list = ['compare','Compare','comparison','Comparison','cmp','Cmp','compa
 
 high_revenue = ['High','high','Higest','higest','largest','Largest','topest','Topest','Top','top']
 
-low_revenue = ['Lowest','lowest','smallest','Smallest','down','Down']
+low_revenue = ['Lowest','lowest','smallest','Smallest','down','Down','Low','low']
